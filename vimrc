@@ -76,7 +76,7 @@ filetyp plugin indent on
 
 NeoBundleCheck
 
-colorscheme solarized 
+colorscheme molokai
 
 "syntax highlighting
 set background=dark
